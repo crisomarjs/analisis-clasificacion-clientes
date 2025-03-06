@@ -23,9 +23,9 @@ Utilizar un dataset simulado llamado `datos_clientes.csv` que contiene informaci
 4. **Visualización de Datos**: Crear visualizaciones para interpretar los resultados de las técnicas de reducción de dimensiones y clustering. Esto incluye la creación de **gráficos de dispersión** para los resultados de PCA y la visualización de **dendrogramas** para el Clustering Jerárquico.
 5. **Interpretación y Estrategias de Marketing**: Analizar los clusters obtenidos y desarrollar propuestas de estrategias de marketing específicas para cada segmento de clientes. Justificar las estrategias basándote en las características y comportamientos de los grupos identificados.
 
-6. # Conclusiones
+# Conclusiones
 
-7. Con base en la información proporcionada sobre los clusters, podemos desarrollar estrategias de marketing diferenciadas para cada segmento de clientes. Cada estrategia debe estar orientada a las características particulares y comportamientos de compra observados en cada grupo:
+Con base en la información proporcionada sobre los clusters, podemos desarrollar estrategias de marketing diferenciadas para cada segmento de clientes. Cada estrategia debe estar orientada a las características particulares y comportamientos de compra observados en cada grupo:
 
 ### Estrategias de Marketing para Cada Cluster
 
